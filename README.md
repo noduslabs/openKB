@@ -242,6 +242,8 @@ Have design skills? Want to design theme(s) for `openKB`? Please design and subm
 
 Have openKB running on a public facing server? Submit a PR with your URL and it will be updated here.
 
+[InfraNodus Network Visualization Knowledge Base](https://help.infranodus.com)
+
 ### Running in production
 
 Using [PM2](https://github.com/Unitech/pm2) seems to be the easiest and best option for running production websites.
